@@ -27,7 +27,7 @@ name: Pavitra Sharma
 located_in: Delhi NCR, India
 education:
   [
-    "B.Tech, Computer Science and Engineering, Jaypee Institute of Information Technology",
+    "B.Tech, Computer Science and Engineering, Jaypee Institute of Information Technology"
   ]
 
 open_to:
