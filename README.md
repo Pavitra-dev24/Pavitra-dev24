@@ -24,33 +24,29 @@
 
 ```yaml
 name: Pavitra Sharma
-located_in: Noida, India
-job: Python Programming Intern
+located_in: Delhi NCR, India
 education:
   [
     "B.Tech, Computer Science and Engineering, Jaypee Institute of Information Technology",
   ]
-company: Vault of Codes
-Tenure : Jul 2025 - Aug 2025
 
 open_to:
   [
-    "Software Development Apprenticeships",
     "Entry-Level Software Engineering roles",
+    "Software Development Internships/Apprenticeships",
   ]
 
 fields_of_interests:
   [
+    "Software Development"
     "Full-Stack Development",
-    "Explainable Systems",
-    "Civic Tech for India",
     "Applied Machine Learning",
     "Generative AI",
-    "Developer Tooling"
   ]
 technical_background:
   [
-    Software Development Intern
+    Software Development Intern,
+    Python Programming Intern,
   ]
   
 ```
