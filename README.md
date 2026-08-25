@@ -32,21 +32,21 @@ education:
 
 open_to:
   [
-    "Entry-Level Software Engineering roles",
-    "Software Development Internships/Apprenticeships",
+    "Entry-Level Software Engineering roles"
+    "Software Development Internships/Apprenticeships"
   ]
 
 fields_of_interests:
   [
     "Software Development"
-    "Full-Stack Development",
-    "Applied Machine Learning",
-    "Generative AI",
+    "Full-Stack Development"
+    "Applied Machine Learning"
+    "Generative AI"
   ]
 technical_background:
   [
-    Software Development Intern,
-    Python Programming Intern,
+    Python Programming Intern
+    Software Development Intern
   ]
   
 ```
